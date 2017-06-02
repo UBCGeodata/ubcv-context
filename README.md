@@ -6,6 +6,8 @@ Context layers for UBC Vancouver. Used for general cartography. All data in this
 
 Datasets
 --------
+* UBC Vancouver Boundary
+* UBC Vancouver Neighbourhoods
 * Coastline
 * Pacific Spirit Park
 * Pacific Spirit Park Trails
@@ -16,7 +18,6 @@ Files Provided
 --------------
 * Provided in geojson, and file geodatabase formats.
 * FGDB is ESPG:26910/UTM10N, geojson ESPG:4326.
-* csv data has lat/long columns.
 
 License
 -------
