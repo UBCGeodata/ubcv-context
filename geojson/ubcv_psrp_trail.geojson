@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "PLAN.PSRP_Trail",
+	"name" : "ubcv_psrp_trail",
 	"features" : [
 		{
 			"type" : "Feature",

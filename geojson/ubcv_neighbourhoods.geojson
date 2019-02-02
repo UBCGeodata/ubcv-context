@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "PLAN.Neighbourhoods",
+	"name" : "ubcv_neighbourhoods",
 	"features" : [
 		{
 			"type" : "Feature",
@@ -28,14 +28,7 @@
 				"OBJECTID" : 8,
 				"ID" : 1,
 				"NAME" : "Acadia East",
-				"OTHER" : "Future",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{7A7507FE-32F0-4795-9FC6-789749A2FBBA}",
-				"SHAPE.AREA" : 111596.44667222,
-				"SHAPE.LEN" : 1636.58740131335
+				"OTHER" : "Future"
 			}
 		},
 		{
@@ -142,14 +135,7 @@
 				"OBJECTID" : 3,
 				"ID" : 1,
 				"NAME" : "Chancellor Place",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{140925C3-7CC0-440F-AECE-24038D788AD4}",
-				"SHAPE.AREA" : 92923.413606595,
-				"SHAPE.LEN" : 1228.66011670699
+				"OTHER" : "Subdivided"
 			}
 		},
 		{
@@ -190,14 +176,7 @@
 				"OBJECTID" : 1,
 				"ID" : 1,
 				"NAME" : "Hampton Place",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{1889CF59-8C8C-4488-875D-31D6F0A4254D}",
-				"SHAPE.AREA" : 113512.223821985,
-				"SHAPE.LEN" : 1351.48698251834
+				"OTHER" : "Subdivided"
 			}
 		},
 		{
@@ -503,14 +482,7 @@
 				"OBJECTID" : 330,
 				"ID" : 3,
 				"NAME" : "Stadium Road - New Boundary",
-				"OTHER" : "Future",
-				"CREATED_USER" : "AC",
-				"CREATED_DATE" : "20180731",
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{A833246D-1AD0-425C-B48B-4EA21E587B23}",
-				"SHAPE.AREA" : 79110.010284605,
-				"SHAPE.LEN" : 1347.3908302889702
+				"OTHER" : "Future"
 			}
 		},
 		{
@@ -612,14 +584,7 @@
 				"OBJECTID" : 2,
 				"ID" : 1,
 				"NAME" : "Wesbrook Place",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{D09C3A22-62CF-4818-8D51-92E8A8FF3A46}",
-				"SHAPE.AREA" : 461071.020974775,
-				"SHAPE.LEN" : 2840.1444522177
+				"OTHER" : "Subdivided"
 			}
 		},
 		{
@@ -639,14 +604,7 @@
 				"OBJECTID" : 10,
 				"ID" : 1,
 				"NAME" : "Wesbrook Place",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{1D3774B3-25F5-4E37-881A-104C9B5A4685}",
-				"SHAPE.AREA" : 4.572e-5,
-				"SHAPE.LEN" : 0.043853632897779396
+				"OTHER" : "Subdivided"
 			}
 		},
 		{
@@ -700,14 +658,7 @@
 				"OBJECTID" : 6,
 				"ID" : 1,
 				"NAME" : "Hawthorn Place",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{A19D0F50-A0D6-486F-9B30-6008CA656526}",
-				"SHAPE.AREA" : 109096.287193535,
-				"SHAPE.LEN" : 1582.95609493522
+				"OTHER" : "Subdivided"
 			}
 		},
 		{
@@ -752,14 +703,7 @@
 				"OBJECTID" : 7,
 				"ID" : 1,
 				"NAME" : "Stadium Road",
-				"OTHER" : "Future",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{C12E26FB-5E4B-4E96-A9FE-D4BA21EC9E38}",
-				"SHAPE.AREA" : 42626.776725,
-				"SHAPE.LEN" : 1191.99447118303
+				"OTHER" : "Future"
 			}
 		},
 		{
@@ -795,14 +739,7 @@
 				"OBJECTID" : 4,
 				"ID" : 1,
 				"NAME" : "East Campus",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{82FEC2C2-D05A-4BF0-B964-C0B2A1FF511B}",
-				"SHAPE.AREA" : 31550.22833542,
-				"SHAPE.LEN" : 931.072112473495
+				"OTHER" : "Subdivided"
 			}
 		},
 		{
@@ -837,14 +774,7 @@
 				"OBJECTID" : 9,
 				"ID" : 2,
 				"NAME" : "University Blvd",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{0A7AF1CC-03FA-4328-84BA-BD65E8A9497E}",
-				"SHAPE.AREA" : 45328.45393657,
-				"SHAPE.LEN" : 1195.96337026956
+				"OTHER" : "Subdivided"
 			}
 		}
 	]
