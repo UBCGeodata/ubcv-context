@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "ubcv_boundary",
+	"name" : "PLAN.LegalBoundaryP",
 	"features" : [
 		{
 			"type" : "Feature",
@@ -311,7 +311,21 @@
 					]
 				]
 			},
-			"properties" : {}
+			"properties" : {
+				"OBJECTID" : 321,
+				"FID_" : null,
+				"PLAN_LEGALBOUNDARYP_ENTITY" : null,
+				"HANDLE" : null,
+				"LAYER" : null,
+				"COLOR" : null,
+				"LINETYPE" : null,
+				"ELEVATION" : null,
+				"THICKNESS" : null,
+				"TEXT_" : null,
+				"GLOBALID" : "{A6EE1B31-26F6-416F-9783-FF9D14A20F95}",
+				"SHAPE.AREA" : 4017754.13320831,
+				"SHAPE.LEN" : 10348.4681416831
+			}
 		}
 	]
 }

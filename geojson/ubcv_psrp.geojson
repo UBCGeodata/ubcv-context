@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "ubcv_psrp",
+	"name" : "PLAN.PSRP",
 	"features" : [
 		{
 			"type" : "Feature",
@@ -363,7 +363,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 26,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 6868.05494169,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{4975FAD4-8BED-4AE7-BFC3-EC91A0679CBE}",
+				"SHAPE.AREA" : 170288.84548348,
+				"SHAPE.LEN" : 6868.053861349721
 			}
 		},
 		{
@@ -429,7 +439,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 25,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 1015.72242799,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{79A2C32B-5100-462C-A939-A501C188BB31}",
+				"SHAPE.AREA" : 20178.699424265,
+				"SHAPE.LEN" : 1014.12844140617
 			}
 		},
 		{
@@ -1001,7 +1021,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 24,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 4038.06323131,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{821E8949-B93F-41AF-9E1C-91B9A974E287}",
+				"SHAPE.AREA" : 868127.70019161,
+				"SHAPE.LEN" : 4037.9477941067003
 			}
 		},
 		{
@@ -1190,7 +1220,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 20,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 2884.27512039,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{84C2C4D6-9EC0-43D0-98D6-5EC14002CFD2}",
+				"SHAPE.AREA" : 187644.41937021,
+				"SHAPE.LEN" : 2893.74045604533
 			}
 		},
 		{
@@ -1632,7 +1672,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 18,
-				"MUNI" : "Electoral Area A"
+				"MUNI" : "Electoral Area A",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : " ",
+				"SHAPE_LENG" : 1403.11505895,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{7562E7D1-E30B-48EF-A8D6-74CC189A616E}",
+				"SHAPE.AREA" : 57720.787162475,
+				"SHAPE.LEN" : 1127.4870304943702
 			}
 		},
 		{
@@ -1654,7 +1704,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 22,
-				"MUNI" : "Electoral Area A"
+				"MUNI" : "Electoral Area A",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : " ",
+				"SHAPE_LENG" : 1121.69292749,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{B9FF685F-7AB2-4641-B708-86328FC34F4B}",
+				"SHAPE.AREA" : 31868.340486595,
+				"SHAPE.LEN" : 1121.69285199071
 			}
 		},
 		{
@@ -2015,7 +2075,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 23,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 2504.68334153,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{0A8617B5-25E8-4139-91EC-32AD940C7B00}",
+				"SHAPE.AREA" : 260734.20192956502,
+				"SHAPE.LEN" : 2504.68330652874
 			}
 		},
 		{
@@ -3862,7 +3932,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 14,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 8564.94694674,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{3892DDFA-0A05-4DBC-97E8-C02F35B5BF3D}",
+				"SHAPE.AREA" : 1176602.59224909,
+				"SHAPE.LEN" : 8772.11322574856
 			}
 		},
 		{
@@ -3914,7 +3994,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 19,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 3420.70538123,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{6BAF5E59-170F-43C9-B8CB-CF5BAD8B844A}",
+				"SHAPE.AREA" : 427220.3050367,
+				"SHAPE.LEN" : 3572.2171484821
 			}
 		},
 		{
@@ -4129,7 +4219,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 13,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 5616.02719366,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{18F029D5-B242-4D41-8708-C4720EF3EC0A}",
+				"SHAPE.AREA" : 420636.91017129,
+				"SHAPE.LEN" : 5655.3271566856
 			}
 		},
 		{
@@ -4686,7 +4786,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 15,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 3834.70417798,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{D4304E4B-7146-42E5-B92A-2562A90ACBA3}",
+				"SHAPE.AREA" : 188827.80741826,
+				"SHAPE.LEN" : 3805.3349783442904
 			}
 		},
 		{
@@ -5597,7 +5707,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 16,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 4841.3626366,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{0D7C57AA-C653-46A6-A0E6-151E83AA7C85}",
+				"SHAPE.AREA" : 526299.850982155,
+				"SHAPE.LEN" : 4790.77635067821
 			}
 		},
 		{
@@ -5863,7 +5983,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 17,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 3286.83586464,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{7570679A-ADD1-481A-8542-29A38C7BD1ED}",
+				"SHAPE.AREA" : 206841.91077002,
+				"SHAPE.LEN" : 3311.2579176653103
 			}
 		},
 		{
@@ -6413,7 +6543,17 @@
 			},
 			"properties" : {
 				"OBJECTID" : 21,
-				"MUNI" : "UBCUEL"
+				"MUNI" : "UBCUEL",
+				"RGSDESIG" : "Conservation_Recreation",
+				"RGSDESCRIP" : "PSRP",
+				"SHAPE_LENG" : 13277.1881089,
+				"CREATED_USER" : null,
+				"CREATED_DATE" : null,
+				"LAST_EDITED_USER" : null,
+				"LAST_EDITED_DATE" : null,
+				"GLOBALID" : "{A5AD7F6F-880B-4CCF-957B-75E4DA6297B9}",
+				"SHAPE.AREA" : 3535726.78950002,
+				"SHAPE.LEN" : 12388.8964429645
 			}
 		}
 	]

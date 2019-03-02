@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "ubcv_water",
+	"name" : "PLAN.Water",
 	"features" : [
 		{
 			"type" : "Feature",
@@ -518,7 +518,13 @@
 					]
 				]
 			},
-			"properties" : {}
+			"properties" : {
+				"OBJECTID_1" : 1,
+				"OBJECTID" : 1,
+				"GLOBALID" : "{2F865920-1B36-4839-A530-588FA8297802}",
+				"SHAPE.AREA" : 38064407.8984739,
+				"SHAPE.LEN" : 41803.7306091426
+			}
 		}
 	]
 }

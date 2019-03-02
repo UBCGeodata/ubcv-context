@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "ubcv_coastline",
+	"name" : "PLAN.CoastLine",
 	"features" : [
 		{
 			"type" : "Feature",

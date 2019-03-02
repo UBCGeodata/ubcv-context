@@ -1,6 +1,6 @@
 {
 	"type" : "FeatureCollection",
-	"name" : "ubcv_uel",
+	"name" : "PLAN.UEL",
 	"features" : [
 		{
 			"type" : "Feature",
@@ -95,7 +95,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "UBCUEL",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "Musqueam"
+				"RGSDESCRIP" : "Musqueam",
+				"SHAPE_LENG" : 95336.63323464,
+				"GLOBALID" : "{FAE15B18-1FDB-481B-823A-362F4110C750}",
+				"SHAPE.AREA" : 95350.06557777,
+				"SHAPE.LEN" : 1580.2129954426
 			}
 		},
 		{
@@ -892,7 +896,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "UBCUEL",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "Musqueam"
+				"RGSDESCRIP" : "Musqueam",
+				"SHAPE_LENG" : 211798.41407689,
+				"GLOBALID" : "{78ABFEB7-EA99-455E-829A-01C8FFD53A0B}",
+				"SHAPE.AREA" : 225592.61355924,
+				"SHAPE.LEN" : 3190.0191293500598
 			}
 		},
 		{
@@ -963,7 +971,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "Musqueam"
+				"RGSDESCRIP" : "Musqueam",
+				"SHAPE_LENG" : 957728.76262578,
+				"GLOBALID" : "{9AEDBA5B-069B-4E5B-82DC-81A2913FA1D3}",
+				"SHAPE.AREA" : 949132.260160515,
+				"SHAPE.LEN" : 5038.64405926659
 			}
 		},
 		{
@@ -1276,7 +1288,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : null
+				"RGSDESCRIP" : null,
+				"SHAPE_LENG" : 103989.23979636,
+				"GLOBALID" : "{9749A229-3A30-4D93-8984-2EA8C1E86011}",
+				"SHAPE.AREA" : 103989.239796315,
+				"SHAPE.LEN" : 3198.9975043977897
 			}
 		},
 		{
@@ -1670,7 +1686,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : null
+				"RGSDESCRIP" : null,
+				"SHAPE_LENG" : 574228.14625363,
+				"GLOBALID" : "{01179258-0DAD-4A24-B592-B98E09731AE0}",
+				"SHAPE.AREA" : 574228.146253665,
+				"SHAPE.LEN" : 4134.94505522555
 			}
 		},
 		{
@@ -2073,7 +2093,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : null
+				"RGSDESCRIP" : null,
+				"SHAPE_LENG" : 565903.93084668,
+				"GLOBALID" : "{7B3F94B4-CACF-4858-8B76-5F1EEC844B59}",
+				"SHAPE.AREA" : 565903.9308467,
+				"SHAPE.LEN" : 4248.393557028
 			}
 		},
 		{
@@ -2173,7 +2197,11 @@
 				"FID_LANDUS" : 9,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Agriculture",
-				"RGSDESCRIP" : "Musqueam"
+				"RGSDESCRIP" : "Musqueam",
+				"SHAPE_LENG" : 243552.55889626,
+				"GLOBALID" : "{F37903C5-C6F3-4199-9317-BDB4CA71917C}",
+				"SHAPE.AREA" : 243552.558896175,
+				"SHAPE.LEN" : 2147.8891735031702
 			}
 		},
 		{
@@ -2726,7 +2754,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "UBCUEL",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "Musqueam"
+				"RGSDESCRIP" : "Musqueam",
+				"SHAPE_LENG" : 641880.50375029,
+				"GLOBALID" : "{FABA951A-D56B-485A-AD8A-386304FE681E}",
+				"SHAPE.AREA" : 641864.71926358,
+				"SHAPE.LEN" : 3991.299973263
 			}
 		},
 		{
@@ -3042,7 +3074,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : null
+				"RGSDESCRIP" : null,
+				"SHAPE_LENG" : 103905.07477811,
+				"GLOBALID" : "{1A5A8027-D536-4AD7-B34A-08B751CC8B2A}",
+				"SHAPE.AREA" : 103905.07477806,
+				"SHAPE.LEN" : 3198.17672295791
 			}
 		},
 		{
@@ -3242,7 +3278,11 @@
 				"FID_LANDUS" : 9,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Agriculture",
-				"RGSDESCRIP" : "<Null>"
+				"RGSDESCRIP" : "<Null>",
+				"SHAPE_LENG" : 65995.34991466,
+				"GLOBALID" : "{704C86FA-E4AB-4F23-BBE4-4F2FF4BBCA6B}",
+				"SHAPE.AREA" : 65995.34991463,
+				"SHAPE.LEN" : 1932.7391161614
 			}
 		},
 		{
@@ -3721,7 +3761,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "<Null>"
+				"RGSDESCRIP" : "<Null>",
+				"SHAPE_LENG" : 4873115.16733843,
+				"GLOBALID" : "{E348D50C-4A8E-4C74-BDEF-E721DB7C71EC}",
+				"SHAPE.AREA" : 4839590.27168667,
+				"SHAPE.LEN" : 16571.3828863706
 			}
 		},
 		{
@@ -3801,7 +3845,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "UBCUEL",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "<Null>"
+				"RGSDESCRIP" : "<Null>",
+				"SHAPE_LENG" : 138190.39928067,
+				"GLOBALID" : "{D49A40CC-2DC3-488E-AD1A-E6F3C4401363}",
+				"SHAPE.AREA" : 140128.30643051,
+				"SHAPE.LEN" : 2285.3162035712903
 			}
 		},
 		{
@@ -4962,7 +5010,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "UBCUEL",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "<Null>"
+				"RGSDESCRIP" : "<Null>",
+				"SHAPE_LENG" : 1144195.49534815,
+				"GLOBALID" : "{D1C030B4-9389-47D8-99DE-0AE747C18408}",
+				"SHAPE.AREA" : 1221640.8382732,
+				"SHAPE.LEN" : 13713.021314429601
 			}
 		},
 		{
@@ -5260,7 +5312,11 @@
 				"FID_LANDUS" : 17,
 				"MUNI" : "Vancouver",
 				"RGSDESIG" : "Urban",
-				"RGSDESCRIP" : "<Null>"
+				"RGSDESCRIP" : "<Null>",
+				"SHAPE_LENG" : 640984.77596647,
+				"GLOBALID" : "{5D774724-3DF8-457A-B575-3D6F30ACDFA7}",
+				"SHAPE.AREA" : 640984.775966595,
+				"SHAPE.LEN" : 4305.1880157962205
 			}
 		}
 	]
