@@ -628,33 +628,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -123.23221157708802, 49.24928162937957 ],
-						[ -123.23221185489135, 49.24928168099357 ],
-						[ -123.23221169792029, 49.249281611146216 ],
-						[ -123.23221157708802, 49.24928162937957 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 10,
-				"ID" : 1,
-				"NAME" : "Wesbrook Place",
-				"OTHER" : "Subdivided",
-				"CREATED_USER" : null,
-				"CREATED_DATE" : null,
-				"LAST_EDITED_USER" : null,
-				"LAST_EDITED_DATE" : null,
-				"GLOBALID" : "{1D3774B3-25F5-4E37-881A-104C9B5A4685}",
-				"SHAPE.AREA" : 4.572e-5,
-				"SHAPE.LEN" : 0.043853632897779396
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -123.25042195036211, 49.258470048147885 ],
 						[ -123.25001101195753, 49.2579705256639 ],
 						[ -123.24990274890894, 49.257838929462395 ],
