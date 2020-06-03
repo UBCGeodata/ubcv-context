@@ -1,6 +1,9 @@
 ubcv-context
 ==============
 
+## These data have been replaced, and can now be found here:
+https://github.com/UBCGeodata/ubc-geospatial-opendata/tree/master/ubcv/context
+
 Context layers for UBC Vancouver. Used for general cartography. All data in this repo last updated August
 2015 by C+CP.
 
